@@ -10,12 +10,15 @@ body{
     background-color: whitesmoke;
 }
 h1{
-    font-size: 4.8rem;
+    font-size: 6rem;
     font-weight: bold;
+    text-align: center;
     color: tomato;
 }
 p{
+    width: 50%;
     font-size: 1.2rem;
     font-weight: lighter;
+    text-align: center;
     color: lightslategray;
 }
